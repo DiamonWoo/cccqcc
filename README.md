@@ -49,4 +49,4 @@
 
 Alpha
 
-<https://diamonwoo.github.io/cqcc>
+<https://diamonwoo.github.io/cccqcc>
