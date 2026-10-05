@@ -8,7 +8,7 @@
 
 　　cccqcc项目记录大萌在制作‘[集成网页](https://diamonwoo.github.io/LSIP)’(LSIP)过程中，发现的这类网站Bug，以利于官方修复。
 
-　　cccqcc = cha cuo cháquē chá chóng
+　　cccqcc = chá cuò chá quē chá chóng
 
 认领投递单
 ----------
